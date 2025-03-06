@@ -57,7 +57,6 @@ Project ini otomatis di-deploy ke Vercel setiap kali ada push terbaru di branch 
 
 🔗 Link deploy: https://coffe-shop-ndeso.vercel.app/
 
-❤️ Author
-Developed with ❤️ by Khalid Luhur Pambudi
-🔗 GitHub
-🔗 LinkedIn
+## 🧑‍💻 Author  
+Made with ❤️ by [**Khalid Luhur Pambudi**](https://www.linkedin.com/in/khalid-luhur-pambudi-775535329/)  
+🔗 [GitHub](https://github.com/Khalidd88) ・ [LinkedIn](https://www.linkedin.com/in/khalid-luhur-pambudi-775535329/)

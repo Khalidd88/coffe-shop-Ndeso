@@ -1,8 +1,63 @@
-# React + Vite
+☕ Coffee Shop Ndeso
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Coffee Shop Ndeso adalah website landing page modern untuk bisnis kopi kekinian, dibuat dengan teknologi ReactJS + Vite, menampilkan desain premium, responsif di semua device, dan memiliki animasi smooth untuk meningkatkan pengalaman pengguna.
 
-Currently, two official plugins are available:
+🚀 Demo Project
+🔗 [Klik di sini untuk melihat live demo](https://coffe-shop-ndeso.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📸 Preview Tampilan
+Desktop :
+![desktop-ui](https://github.com/user-attachments/assets/dc8d9a00-70be-4aeb-a5fc-1d8a8913273c)
+
+Mobile :
+![mobile-ui](https://github.com/user-attachments/assets/89a74344-220d-41b7-9618-54daad5bc155)
+
+Pad :
+![pad-ui](https://github.com/user-attachments/assets/b7958263-44be-42e1-b7bc-36acc8df7596)
+
+
+📂 Fitur Utama
+✅ Landing page aesthetic
+✅ Responsive di semua device
+✅ Animasi smooth pakai AOS
+✅ Halaman promo & event kekinian
+✅ Navbar elegan + efek scroll
+✅ Section produk terbaik
+
+🛠️ Teknologi yang Digunakan
+⚡ Vite
+⚛️ React JS
+🎨 Tailwind CSS
+🪄 AOS Animation
+🎈 Shadcn UI
+🌐 Vercel (Deployment)
+
+⚙️ Instalasi & Menjalankan Project
+Pastikan kamu sudah install:
+
+Node.js minimal versi 18+
+
+# Clone project
+git clone https://github.com/Khalidd88/coffe-shop-Ndeso.git
+
+# Masuk ke folder project
+cd coffe-shop-Ndeso
+
+# Install dependencies
+npm install
+
+# Jalankan project di local
+npm run dev
+
+Project akan berjalan di:
+http://localhost:5173/
+
+📦 Deployment
+Project ini otomatis di-deploy ke Vercel setiap kali ada push terbaru di branch main.
+
+🔗 Link deploy: https://coffe-shop-ndeso.vercel.app/
+
+❤️ Author
+Developed with ❤️ by Khalid Luhur Pambudi
+🔗 GitHub
+🔗 LinkedIn

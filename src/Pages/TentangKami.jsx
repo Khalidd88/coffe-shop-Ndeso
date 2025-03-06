@@ -59,13 +59,6 @@ const TentangKami = () => {
                 ✅ Komitmen menghadirkan pengalaman kopi yang memuaskan, dari biji hingga cangkir.
               </li>
             </ul>
-            <button
-              className="mt-8 px-8 py-3 bg-[#bc9667] text-white rounded-full shadow-lg hover:bg-[#a57f56] hover:scale-105 transition-all duration-500"
-              data-aos="zoom-in"
-              data-aos-delay="400"
-            >
-              Explore More
-            </button>
           </div>
         </div>
       </div>
